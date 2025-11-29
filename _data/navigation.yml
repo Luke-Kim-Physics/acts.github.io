@@ -3,11 +3,18 @@ main:
   - title: "Home"
     url: /
   
-  - title: "소개"
+  - title: "About"
     url: /about/
     
   - title: "Christian Living Books"
     url: /categories/Christian Living Books/
+    children:
+      - title: "123"
+        url: /categories/123/
+      - title: "333"
+        url: /categories/333/
+      - title: "444"
+        url: /categories/444/
     
   - title: "Theology Books"
     url: /categories/Theology Books/
